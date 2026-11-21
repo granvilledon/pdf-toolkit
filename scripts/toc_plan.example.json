@@ -1,0 +1,10 @@
+{
+  "items": [
+    {"file": "示例-2026真题试卷.pdf", "rule": "shijuan"},
+    {"file": "示例-答案解析.pdf", "rule": "huayan"},
+    {"file": "示例-章节题集.pdf", "rule": "jiedu"},
+    {"file": "示例-多编循环题集.pdf", "rule": "minfa"},
+    {"file": "示例-页眉科目题集.pdf", "rule": "1000ti"},
+    {"file": "示例-回忆版无锚点.pdf", "rule": null}
+  ]
+}

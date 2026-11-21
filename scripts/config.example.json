@@ -1,0 +1,8 @@
+{
+  "root": "D:/my-pdfs",
+  "watermark_patterns": [
+    "公众号", "小红书", "QQ群", "添加微信", "低价购买", "一手资料", "免费领取"
+  ],
+  "protect_patterns": [],
+  "backup_dirname": "_backup"
+}
